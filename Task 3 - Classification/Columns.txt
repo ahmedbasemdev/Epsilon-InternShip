@@ -1,0 +1,16 @@
+Gender
+Age
+Debt	
+Married	
+BankCustomer	
+EducationLevel	
+Ethnicity	
+YearsEmployed	
+PriorDefault	
+Employed	
+CreditScore	
+DriversLicense	
+Citizen	
+ZipCode	
+Income	
+Approved
